@@ -32,7 +32,7 @@ This is a Finance dashboard that shows statistical information about a financial
 npm install
 ```
 
-## Installations
+## Run
 
 ```bash
 npm run dev
