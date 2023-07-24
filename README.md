@@ -23,7 +23,7 @@ This is a Finance dashboard that shows statistical information about a financial
 
 ## Technologies
 * SCSS
-* Next.js
+* Next.ts
 * Material UI
 
 ## Installations
