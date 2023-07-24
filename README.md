@@ -22,6 +22,7 @@ This is a Finance dashboard that shows statistical information about a financial
 * Typescript
 
 ## Technologies
+* SCSS
 * Next.js
 * Material UI
 
